@@ -1,0 +1,4 @@
+#System files
+__MACOSX__
+.DS_store
+.vscode
